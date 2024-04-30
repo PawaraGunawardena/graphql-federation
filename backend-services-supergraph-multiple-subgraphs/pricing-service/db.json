@@ -1,0 +1,94 @@
+{
+    "prices": [
+        {
+            "id": 1,
+            "referenceEntityId": 1,
+            "entityPrice": {
+                "amount": 7,
+                "currency": "USD"
+            },
+            "serviceCharges": {
+                "stream": {
+                    "amount": 1,
+                    "currency": "USD"
+                },
+                "support": {
+                    "amount": 0.1,
+                    "currency": "USD"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "referenceEntityId": 2,
+            "entityPrice": {
+                "amount": 5,
+                "currency": "USD"
+            },
+            "serviceCharges": {
+                "stream": {
+                    "amount": 0.9,
+                    "currency": "USD"
+                },
+                "support": {
+                    "amount": 0.15,
+                    "currency": "USD"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "referenceEntityId": 3,
+            "entityPrice": {
+                "amount": 5,
+                "currency": "USD"
+            },
+            "serviceCharges": {
+                "stream": {
+                    "amount": 0.6,
+                    "currency": "USD"
+                },
+                "support": {
+                    "amount": 0.15,
+                    "currency": "USD"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "referenceEntityId": 4,
+            "entityPrice": {
+                "amount": 6,
+                "currency": "USD"
+            },
+            "serviceCharges": {
+                "stream": {
+                    "amount": 1.2,
+                    "currency": "USD"
+                },
+                "support": {
+                    "amount": 0.2,
+                    "currency": "USD"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "referenceEntityId": 5,
+            "entityPrice": {
+                "amount": 4,
+                "currency": "USD"
+            },
+            "serviceCharges": {
+                "stream": {
+                    "amount": 0.7,
+                    "currency": "USD"
+                },
+                "support": {
+                    "amount": 0.1,
+                    "currency": "USD"
+                }
+            }
+        }
+    ]
+}

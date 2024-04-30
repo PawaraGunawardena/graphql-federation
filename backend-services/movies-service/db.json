@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "Fly a kite",
+      "duration": 85,
+      "genre": "Fantasy",
+      "views": 1200
+    },
+    {
+      "id": "2",
+      "name": "Summer",
+      "duration": 110,
+      "genre": "Adventure",
+      "views": 380
+    },
+    {
+      "id": "3",
+      "name": "Tide Ride",
+      "duration": 85,
+      "genre": "Drama",
+      "views": 215
+    },
+    {
+      "id": "4",
+      "name": "Capnella",
+      "duration": 95,
+      "genre": "Drama",
+      "views": 650
+    },
+    {
+      "id": "5",
+      "name": "Chemicals",
+      "duration": 88,
+      "genre": "Science Fiction",
+      "views": 1500
+    },
+    {
+      "id": 6,
+      "name": "Shelter",
+      "duration": 90,
+      "genre": "Fantasy",
+      "views": 300
+    }
+  ]
+}
